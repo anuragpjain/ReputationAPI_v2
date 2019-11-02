@@ -18,5 +18,5 @@
 }
   
 # High Level Architeccure
-![alt text](https://github.com/anuragpjain/reputationAPI/blob/master/Reputation%20API.png)
+![alt text](https://github.com/anuragpjain/ReputationAPI_v2/blob/master/Reputation%20API.png)
 
